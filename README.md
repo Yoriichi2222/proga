@@ -62,10 +62,6 @@ int main()
 ![Alt text](image-3.png)
 ## Объектные файлы 
 ![Alt text](image-5.png)
-## список использованных источников:
-1.https://doka.guide/tools/markdown/
-
-2.https://github.com/still-coding/report_demo/blob/main/README.md?plain=1
 ## 7. Сделайте коммит и пуш
 ![Alt text](image-4.png)
 
@@ -74,5 +70,10 @@ int main()
  ```shell
  git clone
  git add .
- 
+ git commit
+ git push
  ```
+ ## список использованных источников:
+1.https://doka.guide/tools/markdown/
+
+2.https://github.com/still-coding/report_demo/blob/main/README.md?plain=1
