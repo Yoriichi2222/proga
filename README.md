@@ -34,6 +34,10 @@ prog labs
 ## ход работы
 ### 1. Создайте репозиторий для дисциплины на GitHub
 ссылка на репризиторий:https://github.com/Yoriichi2222/proga
+### 2.Склонируйте его себе на ПК 
+```shell
+get clone https://github.com/Yoriichi2222/proga.git
+```
 
 ## изначальный код на С
 ### 3. Напишите свою первую программу
@@ -62,3 +66,13 @@ int main()
 1.https://doka.guide/tools/markdown/
 
 2.https://github.com/still-coding/report_demo/blob/main/README.md?plain=1
+## 7. Сделайте коммит и пуш
+![Alt text](image-4.png)
+
+![Alt text](image-6.png)
+ ## 8 Добавьте для себя в отчёт шпаргалку по работе с git
+ ```shell
+ git clone
+ git add .
+ 
+ ```
